@@ -1,0 +1,17 @@
+target/
+*.class
+*.jar
+*.war
+*.ear
+.h2.db
+*.db
+user1_session.txt
+user2_session.txt
+*.log
+.idea/
+*.iml
+.DS_Store
+.settings/
+.project
+.classpath
+.factorypath
