@@ -17,7 +17,6 @@ A comprehensive web service built using Java and Spring Boot 3.x to help users m
 ### Prerequisites
 - **Java 17** or higher
 - **Maven 3.6+**
-- **Docker** (optional, for containerized run)
 
 ### Running Locally with Maven
 1. **Clone or navigate** to the project directory:
